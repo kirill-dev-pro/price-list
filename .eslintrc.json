@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "standard-with-typescript",
+    "standard-jsx"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
